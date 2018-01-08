@@ -1,9 +1,9 @@
 var products = [{
-	name : "prod1",
+	name : "proda",
 	price : 15,
 	inventory : 40,
 }, {
-	name : "prod2",
+	name : "prodb",
 	price : 13,
 	inventory : 30,
 }];
